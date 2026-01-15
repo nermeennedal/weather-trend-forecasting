@@ -1,11 +1,3 @@
-"""
-Weather Trend Forecasting Analysis - Complete Python Code
-PM Accelerator Mission: Empowering innovation through data-driven insights
-
-Save this as: weather_analysis.py
-Run with: python weather_analysis.py
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -428,4 +420,5 @@ print("  8. 8_importance.png")
 print("  9. 9_spatial.png")
 print(" 10. 10_air_quality.png")
 print(" 11. ANALYSIS_REPORT.txt")
+
 print("="*80)
