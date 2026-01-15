@@ -67,7 +67,7 @@ Place the `GlobalWeatherRepository.csv` file in the `archive/` folder:
 weather-forecasting-analysis/
 ├── archive/
 │   └── GlobalWeatherRepository.csv
-├── code.py
+├── weather_analysis.py
 ├── requirements.txt
 └── README.md
 ```
